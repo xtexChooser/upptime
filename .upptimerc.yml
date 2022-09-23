@@ -14,11 +14,13 @@ status-website:
   cname: upptime.xtexx.ml
   logoUrl: https://xtexx.ml/blog/icon.png
   name: xtex's Upptime
-  introTitle: "Service status monitoring by xtex"
-  introMessage: "This shows service availablity information for services maintainced by @xtexChooser."
+  introTitle: xtex's Upptime
+  introMessage: "Service availablity information for services maintainced by @xtexChooser."
   navbar:
     - title: Status
       href: /
+    - title: Blog
+      href: https://xtexx.ml/blog/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
