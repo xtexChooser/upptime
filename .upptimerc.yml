@@ -9,10 +9,6 @@ sites:
     check: "tcp-ping"
     url: cn-gz1.svr.xtexx.ml
     port: 22
-  - name: Server us-la1
-    check: "tcp-ping"
-    url: us-la1.svr.xtexx.ml
-    port: 22
 
 status-website:
   cname: upptime.xtexx.ml
