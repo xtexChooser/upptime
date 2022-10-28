@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/xtexx.ml.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 1476,
-    "timeDay": 887,
-    "timeWeek": 1167,
-    "timeMonth": 1377,
+    "timeDay": 1178,
+    "timeWeek": 1204,
+    "timeMonth": 1380,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2022-09-24": 153
@@ -25,40 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-cn-gz1",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 483,
-    "timeDay": 281,
-    "timeWeek": 391,
-    "timeMonth": 506,
+    "timeDay": 379,
+    "timeWeek": 402,
+    "timeMonth": 505,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2022-09-24": 153
-    }
-  },
-  {
-    "name": "Server us-la1",
-    "url": "us-la1.svr.xtexx.ml",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "server-us-la1",
-    "status": "down",
-    "uptime": "93.77%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "78.71%",
-    "uptimeMonth": "93.77%",
-    "uptimeYear": "93.77%",
-    "time": 368,
-    "timeDay": 0,
-    "timeWeek": 167,
-    "timeMonth": 368,
-    "timeYear": 368,
-    "dailyMinutesDown": {
-      "2022-10-28": 51,
-      "2022-10-27": 1440,
-      "2022-10-26": 656
     }
   }
 ]
