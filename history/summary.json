@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1565,
-    "timeDay": 5295,
-    "timeWeek": 1794,
-    "timeMonth": 1524,
-    "timeYear": 1565,
+    "time": 1557,
+    "timeDay": 1208,
+    "timeWeek": 1789,
+    "timeMonth": 1521,
+    "timeYear": 1557,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-cn-gz1",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
-    "time": 480,
-    "timeDay": 358,
-    "timeWeek": 410,
-    "timeMonth": 508,
-    "timeYear": 480,
+    "uptimeYear": "99.73%",
+    "time": 478,
+    "timeDay": 381,
+    "timeWeek": 403,
+    "timeMonth": 509,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
