@@ -1,10 +1,12 @@
 owner: xtexChooser
 repo: upptime
-user-agent: xtexChooser
+user-agent: xtexChooser(Upptime)/1.0
 
 sites:
   - name: Blog
     url: https://xtexx.ml/blog/
+  - name: Upptime
+    url: https://upptime.xtexx.ml/
   - name: Server cn-gz1
     check: "tcp-ping"
     url: cn-gz1.svr.xtexx.ml
@@ -13,9 +15,12 @@ sites:
 status-website:
   cname: upptime.xtexx.ml
   logoUrl: https://xtexx.ml/blog/icon.png
+  favicon: https://xtexx.ml/blog/icon.png
   name: xtex's Upptime
   introTitle: xtex's Upptime
   introMessage: "Service availablity information for services maintainced by @xtexChooser."
+  theme: dark
+  apiBaseUrl: https://rp.chitang.dev/https://api.github.com
   navbar:
     - title: Status
       href: /
