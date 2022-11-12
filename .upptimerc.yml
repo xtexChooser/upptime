@@ -6,16 +6,16 @@ sites:
   - name: Blog
     url: https://xtexx.ml/blog/
   - name: Upptime
-    url: https://upptime.xtexx.ml/
+    url: https://status.xtexx.ml/
   - name: Server cn-gz1
     check: "tcp-ping"
     url: cn-gz1.svr.xtexx.ml
     port: 22
 
 status-website:
-  cname: upptime.xtexx.ml
-  logoUrl: https://xtexx.ml/blog/icon.png
-  favicon: https://xtexx.ml/blog/icon.png
+  cname: status.xtexx.ml
+  logoUrl: https://blog.xtexx.ml/icon.png
+  favicon: https://blog.xtexx.ml/icon.png
   name: xtex's Upptime
   introTitle: xtex's Upptime
   introMessage: "Service availablity information for services maintainced by @xtexChooser."
@@ -25,7 +25,7 @@ status-website:
     - title: Status
       href: /
     - title: Blog
-      href: https://xtexx.ml/blog/
+      href: https://blog.xtexx.ml/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
