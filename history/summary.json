@@ -10,14 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1525,
-    "timeDay": 1312,
-    "timeWeek": 1447,
-    "timeMonth": 1471,
-    "timeYear": 1525,
+    "time": 1519,
+    "timeDay": 1253,
+    "timeWeek": 1415,
+    "timeMonth": 1463,
+    "timeYear": 1519,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
+  },
+  {
+    "name": "Upptime",
+    "url": "https://upptime.xtexx.ml/",
+    "icon": "https://icons.duckduckgo.com/ip3/upptime.xtexx.ml.ico",
+    "slug": "upptime",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 651,
+    "timeDay": 651,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Server cn-gz1",
@@ -30,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 494,
-    "timeDay": 376,
-    "timeWeek": 413,
-    "timeMonth": 464,
-    "timeYear": 494,
+    "time": 490,
+    "timeDay": 309,
+    "timeWeek": 391,
+    "timeMonth": 457,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
