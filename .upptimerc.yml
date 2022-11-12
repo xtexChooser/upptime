@@ -19,7 +19,7 @@ status-website:
   name: xtex's Upptime
   introTitle: xtex's Upptime
   introMessage: "Service availablity information for services maintainced by @xtexChooser."
-  theme: dark
+  theme: night
   apiBaseUrl: https://rp.chitang.dev/https://api.github.com
   navbar:
     - title: Status
