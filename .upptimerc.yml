@@ -3,8 +3,10 @@ repo: upptime
 user-agent: xtexChooser(Upptime)/1.0
 
 sites:
+  - name: Home
+    url: https://xtexx.ml/
   - name: Blog
-    url: https://xtexx.ml/blog/
+    url: https://blog.xtexx.ml/
   - name: Upptime
     url: https://status.xtexx.ml/
   - name: Server cn-gz1
