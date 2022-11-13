@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 669,
+    "timeDay": 669,
+    "timeWeek": 669,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1459,
-    "timeDay": 854,
-    "timeWeek": 1160,
-    "timeMonth": 1375,
-    "timeYear": 1459,
+    "time": 1446,
+    "timeDay": 827,
+    "timeWeek": 1122,
+    "timeMonth": 1356,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 481,
+    "timeDay": 481,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -66,33 +66,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 478,
-    "timeDay": 334,
-    "timeWeek": 380,
-    "timeMonth": 441,
-    "timeYear": 478,
+    "time": 476,
+    "timeDay": 337,
+    "timeWeek": 378,
+    "timeMonth": 439,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2022-09-24": 153
-    }
-  },
-  {
-    "name": "test",
-    "url": "http://test.xtexx.ml/",
-    "icon": "https://icons.duckduckgo.com/ip3/test.xtexx.ml.ico",
-    "slug": "test",
-    "status": "down",
-    "uptime": "9.46%",
-    "uptimeDay": "9.46%",
-    "uptimeWeek": "9.46%",
-    "uptimeMonth": "9.46%",
-    "uptimeYear": "9.46%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-11-13": 0
     }
   }
 ]
