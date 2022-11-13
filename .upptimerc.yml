@@ -13,8 +13,6 @@ sites:
     check: "tcp-ping"
     url: cn-gz1.svr.xtexx.ml
     port: 22
-  - name: test
-    url: http://test.xtexx.ml/
 
 status-website:
   cname: status.xtexx.ml
