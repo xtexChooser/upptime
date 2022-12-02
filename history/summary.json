@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 415,
-    "timeDay": 187,
-    "timeWeek": 312,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 408,
+    "timeDay": 256,
+    "timeWeek": 324,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2022-11-24": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.xtexx.ml.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 1223,
-    "timeDay": 375,
-    "timeWeek": 348,
-    "timeMonth": 814,
-    "timeYear": 1223,
+    "uptimeYear": "99.85%",
+    "time": 1214,
+    "timeDay": 518,
+    "timeWeek": 383,
+    "timeMonth": 790,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 335,
-    "timeWeek": 343,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "time": 421,
+    "timeDay": 362,
+    "timeWeek": 344,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 438,
-    "timeDay": 227,
-    "timeWeek": 292,
-    "timeMonth": 389,
-    "timeYear": 438,
+    "time": 436,
+    "timeDay": 329,
+    "timeWeek": 302,
+    "timeMonth": 385,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
