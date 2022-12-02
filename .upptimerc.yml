@@ -9,10 +9,14 @@ sites:
     url: https://blog.xtexx.ml/
   - name: Upptime
     url: https://status.xtexx.ml/
-  - name: Server cn-gz1
+  - name: nl-alk1
     check: "tcp-ping"
-    url: cn-gz1.svr.xtexx.ml
+    url: nl-alk1.svr.xtexx.ml
     port: 22
+  - name: jp-tyo1
+    check: "tcp-ping"
+    url: jp-tyo1.svr.xtexx.ml
+    port: 14920
 
 status-website:
   cname: status.xtexx.ml
@@ -26,8 +30,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Blog
-      href: https://blog.xtexx.ml/
+    - title: Home
+      href: https://xtexx.ml/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
