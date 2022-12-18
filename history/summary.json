@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 454,
-    "timeDay": 484,
-    "timeWeek": 894,
-    "timeMonth": 426,
-    "timeYear": 454,
+    "time": 453,
+    "timeDay": 419,
+    "timeWeek": 926,
+    "timeMonth": 417,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2022-11-24": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.xtexx.ml.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 1095,
-    "timeDay": 378,
-    "timeWeek": 772,
-    "timeMonth": 445,
-    "timeYear": 1095,
+    "uptimeYear": "99.88%",
+    "time": 1088,
+    "timeDay": 392,
+    "timeWeek": 800,
+    "timeMonth": 422,
+    "timeYear": 1088,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 1090,
-    "timeWeek": 507,
-    "timeMonth": 386,
-    "timeYear": 409,
+    "time": 407,
+    "timeDay": 323,
+    "timeWeek": 526,
+    "timeMonth": 388,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 282,
-    "timeWeek": 247,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "time": 254,
+    "timeDay": 242,
+    "timeWeek": 245,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 226,
-    "timeWeek": 198,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "time": 230,
+    "timeDay": 260,
+    "timeWeek": 216,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
