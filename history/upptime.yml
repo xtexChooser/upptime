@@ -1,7 +1,7 @@
 url: https://status.xtexx.ml/
-status: up
-code: 200
-responseTime: 358
-lastUpdated: 2023-02-11T12:00:56.470Z
+status: down
+code: 502
+responseTime: 245
+lastUpdated: 2023-02-11T16:28:01.525Z
 startTime: Sat Nov 12 2022 22:24:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
