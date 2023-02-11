@@ -82,9 +82,9 @@
     "url": "jp-tyo1.svr.xtexx.ml",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jp-tyo1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -94,6 +94,7 @@
     "timeMonth": 335,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2023-02-11": 0,
       "2023-01-25": 23
     }
   }
