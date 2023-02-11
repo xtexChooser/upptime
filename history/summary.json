@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 577,
-    "timeDay": 249,
-    "timeWeek": 826,
-    "timeMonth": 804,
-    "timeYear": 577,
+    "time": 576,
+    "timeDay": 347,
+    "timeWeek": 779,
+    "timeMonth": 793,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2022-11-24": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 878,
-    "timeDay": 348,
-    "timeWeek": 237,
-    "timeMonth": 638,
-    "timeYear": 878,
+    "time": 876,
+    "timeDay": 519,
+    "timeWeek": 294,
+    "timeMonth": 639,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 456,
-    "timeDay": 296,
-    "timeWeek": 291,
-    "timeMonth": 533,
+    "timeDay": 369,
+    "timeWeek": 310,
+    "timeMonth": 530,
     "timeYear": 456,
     "dailyMinutesDown": {}
   },
@@ -68,34 +68,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 252,
-    "timeDay": 151,
-    "timeWeek": 278,
-    "timeMonth": 251,
-    "timeYear": 252,
+    "time": 251,
+    "timeDay": 178,
+    "timeWeek": 269,
+    "timeMonth": 250,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2022-12-30": 22
     }
   },
   {
-    "name": "jp-tyo1",
-    "url": "jp-tyo1.svr.xtexx.ml",
+    "name": "us-lax1",
+    "url": "us-lax1.svr.xtexx.ml",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "jp-tyo1",
+    "slug": "us-lax1",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 306,
-    "timeDay": 422,
-    "timeWeek": 365,
-    "timeMonth": 335,
-    "timeYear": 306,
+    "uptime": "37.76%",
+    "uptimeDay": "37.76%",
+    "uptimeWeek": "37.76%",
+    "uptimeMonth": "37.76%",
+    "uptimeYear": "37.76%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-11": 0,
-      "2023-01-25": 23
+      "2023-02-11": 0
     }
   }
 ]
