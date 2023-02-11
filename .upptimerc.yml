@@ -13,10 +13,10 @@ sites:
     check: "tcp-ping"
     url: nl-alk1.svr.xtexx.ml
     port: 22
-  - name: jp-tyo1
+  - name: us-lax1
     check: "tcp-ping"
-    url: jp-tyo1.svr.xtexx.ml
-    port: 14920
+    url: us-lax1.svr.xtexx.ml
+    port: 22
 
 status-website:
   cname: status.xtexx.ml
