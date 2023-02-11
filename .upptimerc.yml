@@ -11,11 +11,11 @@ sites:
     url: https://status.xtexx.ml/
   - name: nl-alk1
     check: "tcp-ping"
-    url: nl-alk1.svr.xtexx.ml
+    url: nl-alk1.svr.xvnet.eu.org
     port: 22
   - name: us-lax1
     check: "tcp-ping"
-    url: us-lax1.svr.xtexx.ml
+    url: us-lax1.svr.xvnet.eu.org
     port: 22
 
 status-website:
