@@ -44,18 +44,20 @@
     "url": "https://status.xtexx.ml/",
     "icon": "https://icons.duckduckgo.com/ip3/status.xtexx.ml.ico",
     "slug": "upptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 365,
-    "timeWeek": 315,
-    "timeMonth": 525,
-    "timeYear": 455,
-    "dailyMinutesDown": {}
+    "time": 452,
+    "timeDay": 335,
+    "timeWeek": 308,
+    "timeMonth": 517,
+    "timeYear": 452,
+    "dailyMinutesDown": {
+      "2023-02-11": 0
+    }
   },
   {
     "name": "nl-alk1",
