@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 555,
-    "timeDay": 249,
-    "timeWeek": 419,
-    "timeMonth": 689,
-    "timeYear": 555,
+    "time": 552,
+    "timeDay": 239,
+    "timeWeek": 402,
+    "timeMonth": 686,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2022-11-24": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 871,
-    "timeDay": 296,
+    "time": 867,
+    "timeDay": 287,
     "timeWeek": 1052,
-    "timeMonth": 608,
-    "timeYear": 871,
+    "timeMonth": 582,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 479,
-    "timeDay": 292,
-    "timeWeek": 961,
-    "timeMonth": 667,
-    "timeYear": 479,
+    "time": 477,
+    "timeDay": 254,
+    "timeWeek": 914,
+    "timeMonth": 533,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2023-02-11": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 244,
-    "timeDay": 104,
-    "timeWeek": 241,
-    "timeMonth": 264,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 103,
+    "timeWeek": 240,
+    "timeMonth": 263,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2022-12-30": 22
     }
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-lax1",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 156,
-    "timeDay": 177,
-    "timeWeek": 165,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 153,
+    "timeDay": 113,
+    "timeWeek": 157,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2023-02-18": 16
     }
