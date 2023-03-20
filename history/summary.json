@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 566,
-    "timeDay": 184,
-    "timeWeek": 317,
-    "timeMonth": 592,
-    "timeYear": 566,
+    "time": 565,
+    "timeDay": 306,
+    "timeWeek": 309,
+    "timeMonth": 591,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2022-11-24": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 814,
-    "timeDay": 263,
-    "timeWeek": 231,
-    "timeMonth": 470,
-    "timeYear": 814,
+    "time": 812,
+    "timeDay": 434,
+    "timeWeek": 244,
+    "timeMonth": 446,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2022-09-24": 153
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 478,
-    "timeDay": 194,
-    "timeWeek": 219,
-    "timeMonth": 461,
-    "timeYear": 478,
+    "time": 477,
+    "timeDay": 320,
+    "timeWeek": 205,
+    "timeMonth": 460,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2023-02-11": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 228,
-    "timeDay": 188,
-    "timeWeek": 283,
+    "time": 227,
+    "timeDay": 143,
+    "timeWeek": 257,
     "timeMonth": 170,
-    "timeYear": 228,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2022-12-30": 22
     }
@@ -85,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-lax1",
     "status": "down",
-    "uptime": "31.31%",
+    "uptime": "30.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.82%",
-    "uptimeYear": "31.31%",
+    "uptimeMonth": "16.53%",
+    "uptimeYear": "30.46%",
     "time": 153,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 154,
+    "timeMonth": 145,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-03-19": 40,
+      "2023-03-20": 38,
+      "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
